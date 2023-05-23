@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre CIGIT</h1>
-<h3 align="center">Whatever you do, Do it with love</h3>
+<h3 align="center">It's possible.</h3>
 
 - 🎯 [QA Tester](#)
 
